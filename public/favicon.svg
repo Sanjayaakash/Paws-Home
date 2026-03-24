@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Cartoon Paw Print Icon - Orange & Blue -->
+  <circle cx="256" cy="320" r="140" fill="#f97316"/> <!-- Orange-500 -->
+  <ellipse cx="256" cy="310" rx="110" ry="90" fill="#fb923c"/> <!-- Orange-400 -->
+  
+  <circle cx="100" cy="180" r="60" fill="#f97316"/>
+  <circle cx="200" cy="100" r="60" fill="#0ea5e9"/> <!-- Sky-500 -->
+  <circle cx="312" cy="100" r="60" fill="#0ea5e9"/>
+  <circle cx="412" cy="180" r="60" fill="#f97316"/>
+  
+  <circle cx="100" cy="170" r="40" fill="#fdba74"/> <!-- Orange-300 -->
+  <circle cx="200" cy="90" r="40" fill="#7dd3fc"/> <!-- Sky-300 -->
+  <circle cx="312" cy="90" r="40" fill="#7dd3fc"/>
+  <circle cx="412" cy="170" r="40" fill="#fdba74"/>
+</svg>
